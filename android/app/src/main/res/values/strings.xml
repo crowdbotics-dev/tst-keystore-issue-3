@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tst-keystore-issue-3</string>
+    <string name="original_app_name">Tst keystore issue</string>
+</resources>
